@@ -1,0 +1,35 @@
+body {
+    font-family: 'IBM Plex Mono';
+}
+
+.nav-link{
+    color: black;
+    
+}
+.list-unstyled{
+    font-size: large;
+}
+.card{
+    box-shadow: var(--bs-box-shadow-lg)!important;
+}
+
+svg{
+    display: inline;
+    width: 40px;
+}
+a{
+    font-size: larger;
+    text-decoration: none;
+}
+
+.image1{
+    border-radius: 50%;
+    
+}
+
+@media (max-width: 992px) {
+
+    .forimg1 {
+        text-align: center !important;
+    }
+}
